@@ -1,0 +1,1 @@
+binobj ship7.spr ship7 ship7
