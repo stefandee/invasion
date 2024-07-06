@@ -1,7 +1,3 @@
-Artwork license
-
-Copyright (c) 2024 Stefan Dicu
-
 Attribution-NonCommercial-ShareAlike 4.0 International
 
 =======================================================================
