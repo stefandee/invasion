@@ -1,7 +1,7 @@
 # Invasion
-Welcome to Invasion, a remake of an action/puzzle game called Quarth (or Block Hole), written in Pascal.
+Welcome to Invasion, an action-puzzle game similar to Quarth (or Block Hole), written in Pascal. The puzzle mechanics are slightly different than Quarth, as this was an attempt at a free shapes kind of game mode.
 
-This one was made in 1996 and is a collaboration with Stelian "Steli" Serban doing the artwork. It also features a new medieval-themed Wings of Sorrow logo, made by Steli.
+This one was made in 1996 and is a collaboration with Stelian "Steli" Serban doing the artwork. It also features a new medieval-themed Wings of Sorrow logo, made by him.
 
 Can't remember where I got the music from.
 
